@@ -23,7 +23,17 @@ body{
 
 }
 
-.left , .right{
+#h{
+
+
+    position: absolute;
+    top: 60px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+
+#left , #right{
 
 
     width: 300px;
